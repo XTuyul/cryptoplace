@@ -3,7 +3,7 @@ Script python auto claim Gh/s website [https://cryptoplace.cloud](https://crypto
 
 ## About Cryptoplace :
 - Bonus Registered 2500Ghs Free  
-Get Bonus Here : https://cryptoplace.cloud/?ref=tuyuldigitalx
+Get Bonus Here : https://cryptoplace.cloud/?ref=rubensadm2
 - Minimum withdrawal amount :  
 0.05 BCH;  
 0.02587594 LTC;  
@@ -17,7 +17,7 @@ Get Bonus Here : https://cryptoplace.cloud/?ref=tuyuldigitalx
 **installation command**
 > pkg update -- pkg upgrade   
 pkg install nano python git curl  
-git clone https://github.com/xtuyul/cryptoplace  
+git clone https://github.com/rubensadm/cryptoplace  
 cd cryptoplace     
 pip install requests   
 pip install bs4  
